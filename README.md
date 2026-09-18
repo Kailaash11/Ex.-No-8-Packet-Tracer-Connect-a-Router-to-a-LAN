@@ -1,6 +1,6 @@
 # Ex. No: 8   Packet Tracer: Connect a Router to a LAN
 # Date: ___________
-________________________________________<br>
+________________________________________
 # Objective
 Configure and verify router LAN/WAN interfaces in Cisco Packet Tracer and test end-to-end connectivity.<br>
 •	Display key router information (interfaces, status, routing table).<br>
