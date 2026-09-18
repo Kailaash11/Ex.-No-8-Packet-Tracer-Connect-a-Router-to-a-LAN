@@ -129,7 +129,7 @@ ________________________________________<br>
 
 •	Interface up messages after no shutdown on each link <br>
 <img width="636" height="502" alt="image" src="https://github.com/user-attachments/assets/aeb09d6b-00c2-46d1-a7d7-53866e54d836" />
-<img width="951" height="862" alt="image" src="https://github.com/user-attachments/assets/de25309e-37dc-402a-8453-e72bb8b6070e" />
+<img width="1063" height="756" alt="image" src="https://github.com/user-attachments/assets/f541661b-99f5-4391-83d2-4984a18bdb50" />
 
 
 ________________________________________<br>
