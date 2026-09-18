@@ -1,7 +1,5 @@
 # Ex. No: 8   Packet Tracer: Connect a Router to a LAN
-# Date: 21/08/26
-# Reg.No: 212223060002
-# Name: Aashika Parveen M R
+# Date: 
 ________________________________________<br>
 # Objective
 Configure and verify router LAN/WAN interfaces in Cisco Packet Tracer and test end-to-end connectivity.<br>
